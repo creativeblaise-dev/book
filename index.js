@@ -1,1 +1,1 @@
-const myNewCommit = 'Just setup a new commit';
+const myNewCommit = 'Just setup a new git repo';
