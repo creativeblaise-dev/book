@@ -1,0 +1,1 @@
+const myNewCommit = 'Just setup a new commit';
